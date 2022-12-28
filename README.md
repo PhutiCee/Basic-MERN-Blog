@@ -1,3 +1,17 @@
+# MERN Fullstack
+
+-M = MongoDB
+-E = Express
+-R = ReactJS
+-N = NodeJS
+
+It is designed to make the development process smoother and easier.
+
+# How to run this app
+
+- Make sure nodejs is installed, navigate to project folder, open terminal then run `npm install` or `yarn install` to install dependencies.
+- run `npm run dev` to run the App on your browser.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
