@@ -1,9 +1,9 @@
 # MERN Fullstack
 
--M = MongoDB
--E = Express
--R = ReactJS
--N = NodeJS
+- M = MongoDB
+- E = Express
+- R = ReactJS
+- N = NodeJS
 
 It is designed to make the development process smoother and easier.
 
